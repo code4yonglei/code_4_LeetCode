@@ -32,4 +32,3 @@ class Solution:
 
         return True
  
-# another note
