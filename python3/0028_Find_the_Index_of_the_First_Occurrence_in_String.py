@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding:utf-8 -*-
+
 '''
 
 28. Find the Index of the First Occurrence in a String

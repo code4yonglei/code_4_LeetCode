@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# -*- coding:utf-8 -*-
 
 print('\n----- | Leetcode 4. Median of Two Sorted Arrays. | =====\n')
 

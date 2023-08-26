@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding:utf-8 -*-
+
 '''
 
 0064_Minimum_Path_Sum

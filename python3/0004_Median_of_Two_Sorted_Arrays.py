@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding:utf-8 -*-
+
 '''
 
 0004_Median_of_Two_Sorted_Arrays
